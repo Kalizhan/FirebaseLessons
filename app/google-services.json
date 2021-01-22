@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "139960176732",
+    "project_id": "cloudtasks-68e9d",
+    "storage_bucket": "cloudtasks-68e9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139960176732:android:b3f4945813beb0f6175699",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139960176732-t91iqrp9qi6he677m1dhp8vpv2bbhep3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsOajnzT4OZ72PwNk1ZyV1v09AH03g0qk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139960176732-t91iqrp9qi6he677m1dhp8vpv2bbhep3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
